@@ -1,4 +1,5 @@
 // Might be irrelevant but this component was originally in /lib folder in the root of the project
+// Source: https://github.com/vercel/next.js/blob/canary/examples/cms-contentful/lib/contentful-image.tsx
 'use client';
 
 import Image from 'next/image';
