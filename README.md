@@ -2,7 +2,7 @@
 
 ## What is Cerebrum?
 
-Cerebrum is my "mind", eg. scrapyard for components, ideas, etc. It's a place where I can test new things, learn new things, and just have fun. It's also a place where I can store my ideas and thoughts, and maybe even get some feedback on them.
+Cerebrum is my "mind", eg. scrapyard for components, ideas, etc. It's a place where I can test new things, learn new things, and just have fun and maybe even get some feedback on them.
 
 I'm planning on reusing this components across projects, so I'm trying to make them as generic as possible.
 
